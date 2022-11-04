@@ -1,4 +1,4 @@
-# ASSIGNMENT TITLE
+# Users with Validation
 This is a web-app created with Flask and MySQL to practice validation of user form input.
 ### Objectives:
 * Add the following to your Users assignment: a validator method to your user class that takes in input data as a dictionary, adds flash messages and returns true or false.
